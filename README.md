@@ -17,4 +17,4 @@ This repository contains the source code for trading crypto designed to automate
 - Run the bot against live markets or in a simulation mode.
 
 ## Legal Disclaimer
-This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE BOT AT YOUR OWN RISK. 
+This is for educational purposes only. Do not risk money which you are afraid to lose. USE THE BOT AT YOUR OWN RISK. 
