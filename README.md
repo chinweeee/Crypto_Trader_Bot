@@ -15,3 +15,6 @@ This repository contains the source code for trading crypto designed to automate
 - Install the required dependencies.
 - Configure the trading bot with your API keys and trading parameters.
 - Run the bot against live markets or in a simulation mode.
+
+## Legal Disclaimer
+This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE BOT AT YOUR OWN RISK. 
